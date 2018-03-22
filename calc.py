@@ -1,1 +1,5 @@
-print("hello world")
+def hello():
+	print("hello world")
+	
+def add(x, y):
+	return x + y
